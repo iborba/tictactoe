@@ -1,0 +1,33 @@
+body{
+	font-family: 'Swanky and Moo Moo', cursive;
+	font-size: 60px;
+	border-color: #000F55;
+	color: #000F55;
+}
+p{
+	margin: 10px;
+	text-align: center;
+}
+a{
+	font-size: 40px;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+a:hover, a:active {
+    text-decoration: underline;
+}
+table{
+	height: 400px;
+	width: 400px;
+	margin: 0 auto;
+}
+td{
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 10%;
+	border: 2px outset;
+	background: #fff;
+}
